@@ -34,6 +34,13 @@
 - indirectly by using latest versions of statistical software---much of the interesting work in the R community is published on GitHub even before packages get finally published on CRAN
 
 
+## Some examples
+
+- https://github.com/simonmunzert (my personal account)
+- https://github.com/simonmunzert/rscraping-jsm-2016/ (materials for a course I once gave - check out "Graphs" and "Network")
+- https://github.com/hadley/dplyr (slightly more activity here)
+
+
 ## Useful Resources to get started with Git/GitHub
 
 - [How I Use Git and GitHub for Political Science Research (Carlisle Rainey)](https://github.com/carlislerainey/git-for-political-science/blob/master/git.md)
