@@ -4,7 +4,7 @@
 
 - Git is a revision control system
 - allows you to track changes to any text-based files (e.g., R code, Stata code, LaTeX documents, raw text files, CSV files, etc.)
-- beging a distributed system, it encourages collaboration on software projects
+- being a distributed system, it encourages collaboration on software projects
 - typically used for software development and other version control tasks
 - created by Linus Torvalds in 2005 (yes, THE Linus Torvalds!)
 - typically used from the command line
