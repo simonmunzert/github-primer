@@ -47,3 +47,4 @@
 - [How I Use Git and GitHub for Political Science Research (Carlisle Rainey)](https://github.com/carlislerainey/git-for-political-science/blob/master/git.md)
 - [Git/GitHub, Transparency, and Legitimacy in Quantitative Research (Zachary M. Jones](http://zmjones.com/git/), [see also here for the Political Methodologist preprint version](http://zmjones.com/static/papers/git_tpm.pdf)
 - [The Pro Git Book, a comprehensive Git guide (Scott Chacon and Ben Straub)](https://git-scm.com/book/en/v2)
+- [Try Git (free hands-on course about git)](https://www.codeschool.com/courses/try-git)
