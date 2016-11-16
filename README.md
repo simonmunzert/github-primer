@@ -36,9 +36,10 @@
 
 ## Some examples
 
-- https://github.com/simonmunzert (my personal account)
+- https://github.com/simonmunzert/hitler-speeches (materials for a current working paper)
 - https://github.com/simonmunzert/rscraping-jsm-2016/ (materials for a course I once gave - check out "Graphs" and "Network")
 - https://github.com/hadley/dplyr (slightly more activity here)
+- https://github.com/zuphilip
 
 
 ## Useful Resources to get started with Git/GitHub
