@@ -13,7 +13,7 @@
 
 - web service "on top of Git" that allows you to host Git repositories
 - offers functionality of Git as well as other features
-- as of April 2016, more than 14 million users and more than 35 repositories --> largest host of source code in the world
+- as of April 2016, more than 14 million users and more than 35 million repositories --> largest host of source code in the world
 - browser functionality with social-networking-like features
 - desktop client for all platforms, which facilitates using Git a lot
 - if you host your repositories publicly, it's free
